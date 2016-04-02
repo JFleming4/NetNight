@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Craig\AndroidStudioProjects\Simple-Android-OCR\simpleAndroidOCR\build\intermediates\exploded-aar\Simple-Android-OCR\tesstwo\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79ebb2e4434d9b6f5f03c24a8e7a5d5f3ca660ea">
+        <dex dex="C:\Users\Craig\AndroidStudioProjects\Simple-Android-OCR\simpleAndroidOCR\build\intermediates\pre-dexed\debug\Simple-Android-OCR-tesstwo-unspecified_305eff6df418f28957e9ce39952666fde60ca1e4.jar" />
+    </item>
+
+</items>

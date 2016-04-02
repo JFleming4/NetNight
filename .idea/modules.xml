@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Simple-Android-OCR.iml" filepath="$PROJECT_DIR$/Simple-Android-OCR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleAndroidOCR/simpleAndroidOCR.iml" filepath="$PROJECT_DIR$/simpleAndroidOCR/simpleAndroidOCR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesstwo/tesstwo.iml" filepath="$PROJECT_DIR$/tesstwo/tesstwo.iml" />
+    </modules>
+  </component>
+</project>

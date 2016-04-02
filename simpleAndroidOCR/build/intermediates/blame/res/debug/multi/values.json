@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\Craig\\AndroidStudioProjects\\Simple-Android-OCR\\simpleAndroidOCR\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Craig\\AndroidStudioProjects\\Simple-Android-OCR\\simpleAndroidOCR\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 55,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 44,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\Users\\Craig\\AndroidStudioProjects\\Simple-Android-OCR\\simpleAndroidOCR\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 44,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 69,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Users\\Craig\\AndroidStudioProjects\\Simple-Android-OCR\\simpleAndroidOCR\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 69,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 65,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "C:\\Users\\Craig\\AndroidStudioProjects\\Simple-Android-OCR\\simpleAndroidOCR\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 65,
+                        "endOffset": 288
+                    }
+                }
+            }
+        ]
+    }
+]
